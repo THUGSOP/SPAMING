@@ -18,15 +18,16 @@
         },
         "BOT_USERNAME": {
             "description": "Make a bot from @BotFather, and enter it's username here, with '@'",
-            "value": ""
+            "value": "@GANGSTERSPAMKELIYEBOT"
         },
         "BOT_TOKEN": {
             "description": "Make a bot from @BotFather, and enter it's api token here.",
-            "value": ""
+            "value": "1606015018:AAGSwgQLy3WfgEJt8K0Je7HGMHAm6MCDRXQ"
         },
         "SESSION": {
             "description": "Your session string. Can be added now, or after deploy. (The bot will NOT work without a session string!!)",
             "value": ""
+            "required": false
         },
         "REDIS_URI": {
             "description": "Redis endpoint URL, from redislabs.com",
@@ -35,6 +36,7 @@
         "REDIS_PASSWORD": {
             "description": "Redis endpoint password, from redislabs.com",
             "value": ""
+            "required": false
         },
         "HEROKU_API": {
             "description": "Heroku API token. Needed if deploying on heroku ONLY.",
