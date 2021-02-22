@@ -13,7 +13,7 @@ A stable pluggable Telegram userbot, based on Telethon.
 </details>
 
 # Deploy 
-- [Heroku](https://github.com/ULTROID-OP/ULTROID-BOT#Deploy-to-Heroku)
+- [Heroku](https://github.com/THUGSOP/SPAMMING#Deploy-to-Heroku)
 - [Local Machine](https://github.com/ULTROID-OP/ULTROID-BOT#Deploy-Locally)
 
 ## Deploy to Heroku
