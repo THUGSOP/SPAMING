@@ -27,7 +27,6 @@
         "SESSION": {
             "description": "Your session string. Can be added now, or after deploy. (The bot will NOT work without a session string!!)",
             "value": ""
-            "required": false
         },
         "REDIS_URI": {
             "description": "Redis endpoint URL, from redislabs.com",
@@ -36,7 +35,6 @@
         "REDIS_PASSWORD": {
             "description": "Redis endpoint password, from redislabs.com",
             "value": ""
-            "required": false
         },
         "HEROKU_API": {
             "description": "Heroku API token. Needed if deploying on heroku ONLY.",
