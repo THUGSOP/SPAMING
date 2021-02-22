@@ -10,11 +10,11 @@
     "env": {
         "API_ID": {
             "description": "You api id, from my.telegram.org or @ScrapperRoBot.",
-            "value": ""
+            "value": "1754367"
         },
         "API_HASH": {
             "description": "You api hash, from my.telegram.org or @ScrapperRoBot.",
-            "value": ""
+            "value": "231b8cc6cca12ee51a85cf543321f476"
         },
         "BOT_USERNAME": {
             "description": "Make a bot from @BotFather, and enter it's username here, with '@'",
